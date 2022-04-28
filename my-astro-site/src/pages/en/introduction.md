@@ -28,7 +28,7 @@ Good luck out there, Astronaut. 🧑‍🚀
 # Carla Raquel Pacheco Diaz de Leon 
 carlaraquelpachecodiaz@gmail.com
 
-![foto](/my-astro-site/public/Imagen2/Screenshot_20220327-133608.png)
+![foto](/Screenshot_20220327-133608.png)
 # Comandos de Inicio
 
 Creación de carpeta local:
