@@ -24,3 +24,37 @@ To get started with this theme, check out the `README.md` in your new project di
 Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
 
 Good luck out there, Astronaut. 🧑‍🚀
+
+# Carla Raquel Pacheco Diaz de Leon 
+carlaraquelpachecodiaz@gmail.com
+
+![foto](/my-astro-site/public/Imagen2/Screenshot_20220327-133608.png)
+# Comandos de Inicio
+
+Creación de carpeta local:
+
+- mkdir carpeta
+
+- cd carpeta
+
+- touch README.md
+
+- touch .gitignore
+
+- code .
+
+Inicialización de repositorio:
+
+- git init
+
+- git config --local user.email tu@correo.com
+
+- git add .
+
+- git commit -m "Mensaje del cambio"
+
+- git branch -M main
+
+- git remote add origin https://github.com/usuario/repositorio.git
+
+- git push -u origin main

@@ -166,3 +166,37 @@ If that single language is not English, you can just replace `en` in directory l
 Note that Aglolia and Astro are not affiliated. We have no say over acceptance to the DocSearch program.
 
 If you'd prefer to remove Algolia's search and replace it with your own, check out the `src/components/Header.astro` component to see where the component is added.
+
+# Carla Raquel Pacheco Diaz de Leon 
+carlaraquelpachecodiaz@gmail.com
+
+![foto](./Imagen2/Screenshot_20220327-133608.png)
+# Comandos de Inicio
+
+Creación de carpeta local:
+
+- mkdir carpeta
+
+- cd carpeta
+
+- touch README.md
+
+- touch .gitignore
+
+- code .
+
+Inicialización de repositorio:
+
+- git init
+
+- git config --local user.email tu@correo.com
+
+- git add .
+
+- git commit -m "Mensaje del cambio"
+
+- git branch -M main
+
+- git remote add origin https://github.com/usuario/repositorio.git
+
+- git push -u origin main
